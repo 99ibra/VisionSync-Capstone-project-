@@ -1,4 +1,4 @@
-# VisionSync-Capstone-project-
+# VisionSync
 
 
 ## Overview
